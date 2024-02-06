@@ -6,3 +6,12 @@
 .row h2 {
     color: #58DDA3;
 }
+
+.categories .categorie-item {
+    backdrop-filter: blur(30px);
+}
+
+.row p,
+h5 {
+    font-size: 22px;
+}
