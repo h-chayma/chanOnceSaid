@@ -1,0 +1,51 @@
+.row h2 {
+    color: #58DDA3;
+}
+
+.categorie-item {
+    padding: 24px;
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    border-radius: 20px;
+    border: 1px solid #35373A;
+    transition: all 0.5s ease-in-out;
+    backdrop-filter: blur(30px);
+}
+
+.row p,
+h5 {
+    font-size: 22px;
+    font-weight: lighter;
+}
+
+.page-content {
+    gap: 40px;
+    background: url(../assets/img/bg.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center right;
+    padding: 40px;
+}
+
+.content {
+    display: flex;
+    gap: 40px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center right;
+    padding: 40px;
+}
+
+.loading-spinner {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+.loading-spinner img {
+    width: 100px;
+    height: 100px;
+}

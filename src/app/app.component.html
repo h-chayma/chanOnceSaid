@@ -1,7 +1,26 @@
-<a href="#main-wrapper" id="backto-top" class="back-to-top"><i class="fas fa-angle-up"></i></a>
-
 <div id="main-wrapper" class="main-wrapper overflow-hidden">
     <app-header></app-header>
-    <router-outlet></router-outlet>
+    <div class="page-content">
+        <div class="details">
+            <h1 class="h-36">Chan once said ...</h1>
+            <div *ngIf="loading" class="loading-spinner">
+                <img src="assets/img/loading.gif" alt="Loading..." />
+            </div>
+            <div *ngIf="!loading" class="content">
+                <div class="container-fluid categorie-item">
+                    <div class="row">
+                        <div class="col-lg-3 mb-3">
+                            <img [src]="anime.images.webp.image_url" alt="">
+                        </div>
+                        <div class="col-lg-9">
+                            <h2 class="h-36 mb-2">{{quote.character}}</h2>
+                            <h5 class="h-20 color-medium-gray mb-3">{{quote.anime}}</h5>
+                            <p>{{quote.english}}</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
     <app-footer></app-footer>
 </div>

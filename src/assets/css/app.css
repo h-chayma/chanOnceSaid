@@ -23,7 +23,7 @@ STYLE SHEET INDEXING
 /*-------------------------
     Fonts
 -------------------------*/
-@import url('https://fonts.googleapis.com/css2?family=Gaegu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
 /*-------------------------
     Variables
 -------------------------*/
@@ -108,7 +108,7 @@ html {
 }
 
 body {
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   color: #F8F8FF;
   background-color: #1B1B1B;
   font-size: 16px;
@@ -146,7 +146,7 @@ h6 a {
 }
 
 p {
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 14px;
   font-weight: 600;
   line-height: 150%;
@@ -211,7 +211,7 @@ span {
 
 b,
 strong {
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
 }
 
 .pagination {
@@ -230,7 +230,7 @@ strong {
   justify-content: center;
   color: #F8F8FF;
   font-size: 16px;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-weight: 600;
   line-height: 150%;
   /* 24px */
@@ -402,7 +402,7 @@ Helpers
 }
 
 .h-40 {
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 40px;
   font-weight: 400;
   line-height: 120%;
@@ -439,14 +439,14 @@ Helpers
 }
 
 .h-36 {
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 36px;
   font-weight: 600;
   line-height: 120%;
 }
 
 .h-36.font-sec-2 {
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
 }
 
 .h-36.bold {
@@ -472,7 +472,7 @@ Helpers
 }
 
 .h-30 {
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 30px;
   font-weight: 400;
   line-height: 120%;
@@ -502,7 +502,7 @@ Helpers
 }
 
 .h-27 {
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 27px;
   font-weight: 400;
   line-height: 130%;
@@ -511,7 +511,7 @@ Helpers
 }
 
 .h-27.sec {
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-weight: 500;
   letter-spacing: -0.27px;
 }
@@ -540,7 +540,7 @@ Helpers
 }
 
 .h-24 {
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 24px;
   font-weight: 400;
   line-height: 120%;
@@ -569,14 +569,14 @@ Helpers
 }
 
 .h-20 {
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 20px;
   font-weight: 600;
   line-height: 150%;
 }
 
 .h-20.font-primary {
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
 }
 
 .h-20.lh-140 {
@@ -1483,7 +1483,7 @@ Elements
 }
 
 .cus-btn {
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 21px;
   font-weight: 700;
   line-height: 130%;
@@ -1587,7 +1587,7 @@ Elements
   font-size: 18px;
   font-weight: 600;
   line-height: 130%;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
 }
 
 .cus-btn.light i {
@@ -1638,7 +1638,7 @@ Elements
   justify-content: center;
   align-items: center;
   gap: 10px;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   border-radius: 15px;
   font-size: 20px;
   font-weight: 600;
@@ -1676,7 +1676,7 @@ Elements
   backdrop-filter: blur(25px);
   text-align: center;
   color: #F8F8FF;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 18px;
   font-weight: 600;
   line-height: 130%;
@@ -1737,7 +1737,7 @@ Elements
   font-size: 16px;
   font-weight: 400;
   line-height: 150%;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
 }
 
 .input-group input:focus {
@@ -1779,7 +1779,7 @@ Elements
   font-size: 16px;
   font-weight: 400;
   line-height: 150%;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   position: relative;
   color: #9EA2A8;
   border: 0;
@@ -1811,7 +1811,7 @@ Elements
 
 .inputGroup textarea,
 .inputGroup input {
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1828,7 +1828,7 @@ Elements
 }
 
 .inputGroup label {
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1913,7 +1913,7 @@ input[type=radio]:checked {
   padding: 16px;
   border: none;
   box-shadow: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 150%;
@@ -1966,7 +1966,7 @@ input[type=radio]:checked {
 .checkBox label {
   position: relative;
   cursor: pointer;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 150%;
@@ -2044,7 +2044,7 @@ input[type=radio]:checked {
   background: transparent;
   border-radius: 8px;
   padding: 7px 31px;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 16px;
   font-weight: 600;
   line-height: 120%;
@@ -2105,7 +2105,7 @@ textarea {
   border-radius: 10px;
   background: #C6CBD2;
   color: #1B1B1B;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 21px;
   font-weight: 400;
   flex-shrink: 0;
@@ -2129,7 +2129,7 @@ textarea {
 
 .radio-button label {
   color: #1B1B1B;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 21px;
   font-weight: 400;
   line-height: 140%;
@@ -2522,7 +2522,7 @@ header nav .navbar-collapse .navbar-nav {
 }
 
 header nav .navbar-collapse .navbar-nav .menu-item a {
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   color: #F8F8FF;
   font-weight: 700;
   font-size: 20px;
@@ -2556,7 +2556,7 @@ header nav .navbar-collapse .navbar-nav .has-children {
 }
 
 header nav .navbar-collapse .navbar-nav .has-children a {
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   color: #F8F8FF;
   font-weight: 700;
   font-size: 20px;
@@ -2608,7 +2608,7 @@ header nav .navbar-collapse .navbar-nav .has-children .submenu li a {
   font-weight: 700;
   font-size: 18px;
   line-height: 130%;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   padding: 8px 0;
   display: block;
   position: relative;
@@ -2674,7 +2674,7 @@ header nav .navbar-collapse .right-nav .navbar-nav .notification .notification-n
   background: #58DDA3;
   color: #1B1B1B;
   text-align: center;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 11px;
   font-weight: 400;
   line-height: 150%;
@@ -2900,10 +2900,6 @@ header.small-screen .icon-arrow:hover {
 }
 
 footer {
-  margin-top: 40px;
-  padding-top: 100px;
-  padding-bottom: 40px;
-  background: url(../img/bg_footer.png);
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -3048,7 +3044,7 @@ footer .footer-main .footer-info .list .link {
 
 footer .footer-main .footer-info .list .link li {
   color: #C6CBD2;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 20px;
   font-weight: 400;
   line-height: 150%;
@@ -3162,7 +3158,7 @@ footer .footer-main .footer-info .menu {
 }
 
 footer .footer-main .footer-info .menu .link li a {
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 21px;
   font-weight: 800;
   line-height: 150%;
@@ -3188,7 +3184,7 @@ footer .footer-main .footer-info .menu .link li a:hover {
 
 footer .copyright {
   color: #C6CBD2;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 150%;
@@ -3249,7 +3245,7 @@ footer .copyright {
   border: 1px solid #FFF;
   color: #FFF;
   text-align: center;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 14px;
   font-weight: 600;
   line-height: 150%;
@@ -3374,7 +3370,7 @@ footer .copyright {
 
 .hero-banner-1 .anime-sm-card .tag li {
   color: #9EA2A8;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 14px;
   font-weight: 600;
   line-height: 150%;
@@ -3474,7 +3470,7 @@ footer .copyright {
 .inner-banner .videoplayer .icon-block .time span {
   color: #1B1B1B;
   text-align: center;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 18px;
   font-weight: 600;
   line-height: 130%;
@@ -3567,7 +3563,7 @@ footer .copyright {
   overflow: hidden;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 1;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 24px;
   font-weight: 700;
   line-height: 120%;
@@ -3606,7 +3602,7 @@ footer .copyright {
 
 .inner-banner .movie-listing .name-detail .accordion-body li a {
   color: #9EA2A8;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 150%;
@@ -3692,7 +3688,7 @@ footer .copyright {
 
 .inner-banner .movie-listing .episode-list .list .detail-list h5 {
   color: #F8F8FF;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 16px;
   font-weight: 600;
   line-height: 150%;
@@ -3713,7 +3709,7 @@ footer .copyright {
 
 .inner-banner .movie-listing .episode-list .list .detail-list p {
   color: #F8F8FF;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 15px;
   font-weight: 400;
   line-height: 150%;
@@ -3763,7 +3759,7 @@ footer .copyright {
   align-items: center;
   gap: 4px;
   color: #F8F8FF;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 14px;
   font-weight: 600;
   line-height: 150%;
@@ -3844,7 +3840,7 @@ footer .copyright {
 
 .trending .sm-title {
   color: #9EA2A8;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 16px;
   font-weight: 600;
   line-height: 150%;
@@ -3892,7 +3888,7 @@ footer .copyright {
 
 .trending .card .content .list {
   color: #C6CBD2;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 80px;
   font-weight: 500;
   line-height: 100%;
@@ -3916,7 +3912,7 @@ footer .copyright {
 
 .trending .card .content .tag li {
   color: #9EA2A8;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 16px;
   font-weight: 600;
   line-height: 120%;
@@ -4352,7 +4348,7 @@ footer .copyright {
   align-items: center;
   gap: -4px;
   margin-right: 0 !important;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 32px;
   font-weight: 700;
   line-height: 100%;
@@ -4379,7 +4375,7 @@ footer .copyright {
 }
 
 .comming-soon .content .details .countdown li small {
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 20px;
   font-weight: 600;
   line-height: 150%;
@@ -4445,7 +4441,7 @@ footer .copyright {
 
 .comming-soon .content .details .tag li {
   color: #9EA2A8;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 16px;
   font-weight: 600;
   line-height: 120%;
@@ -4477,7 +4473,7 @@ footer .copyright {
   display: flex;
   align-items: center;
   gap: 20px;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
 }
 
 @media (max-width: 992px) {
@@ -4549,7 +4545,7 @@ footer .copyright {
 
 .trailer .anime-card .name .tag li {
   color: #9EA2A8;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 16px;
   font-weight: 600;
   line-height: 120%;
@@ -4599,7 +4595,7 @@ footer .copyright {
 
 .trailer .anime-card .btn-block .time span {
   color: #FFF;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 16px;
   font-weight: 600;
   line-height: 150%;
@@ -4733,7 +4729,7 @@ footer .copyright {
   align-items: center;
   gap: 9px;
   line-height: 150%;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
 }
 
 .movie-detail h5.h-24 {
@@ -4752,7 +4748,7 @@ footer .copyright {
   border: 1px solid #FFF;
   color: #FFF;
   text-align: center;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 14px;
   font-weight: 600;
   line-height: 150%;
@@ -4785,7 +4781,7 @@ footer .copyright {
 .movie-detail .about .categorie .categorie-list li a {
   color: #F8F8FF;
   text-align: center;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 14px;
   font-weight: 400;
   line-height: 130%;
@@ -4827,7 +4823,7 @@ footer .copyright {
   padding: 4px 8px;
   border-radius: 8px;
   background: #212020;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 16px;
   font-weight: 600;
   line-height: 150%;
@@ -4863,7 +4859,7 @@ footer .copyright {
 }
 
 .comment .comment-box .text-block .top-line h6 {
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 16px;
   font-weight: 600;
   line-height: 150%;
@@ -4885,7 +4881,7 @@ footer .copyright {
 .comment .comment-box .text-block .botton-row .btn-block button,
 .comment .comment-box .text-block .botton-row .btn-block a {
   color: #C6CBD2;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 16px;
   font-weight: 600;
   line-height: 150%;
@@ -4933,7 +4929,7 @@ footer .copyright {
   border-radius: 8px;
   background: #212020;
   color: #F8F8FF;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 16px;
   font-weight: 600;
   line-height: 150%;
@@ -4959,7 +4955,7 @@ footer .copyright {
 .comment .comment-box .input-group button {
   font-size: 21px;
   font-weight: 700;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   line-height: 130%;
   color: #F8F8FF;
   margin: 0;
@@ -4972,7 +4968,7 @@ footer .copyright {
 }
 
 .comment .more p {
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 16px;
   font-weight: 600;
   line-height: 150%;
@@ -4992,7 +4988,7 @@ footer .copyright {
   align-items: center;
   gap: 10px;
   color: #58DDA3;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 16px;
   font-weight: 600;
   line-height: 150%;
@@ -5086,7 +5082,7 @@ footer .copyright {
   justify-content: center;
   align-items: center;
   gap: -4px;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 24px;
   font-weight: 700;
   line-height: 100%;
@@ -5113,7 +5109,7 @@ footer .copyright {
 }
 
 .comment .trailer .detail .countdown li small {
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 18px;
   font-weight: 600;
   line-height: 150%;
@@ -5188,7 +5184,7 @@ footer .copyright {
 
 .top-anime .anime-card .text-block h6 {
   color: #F8F8FF;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 16px;
   font-weight: 600;
   line-height: 150%;
@@ -5216,7 +5212,7 @@ footer .copyright {
 
 .top-anime .anime-card .text-block .tag li {
   color: #9EA2A8;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 16px;
   font-weight: 600;
   line-height: 120%;
@@ -5608,7 +5604,7 @@ footer .copyright {
 
 .blog-detail .blog-block .content .author-detail .name-image P span {
   color: #A0A0A0;
-  font-family: 'Gaegu', sans-serif;
+  font-family: "Concert One", sans-serif;
   font-size: 14px;
   font-weight: 500;
   line-height: 18px;
